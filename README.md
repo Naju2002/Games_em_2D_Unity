@@ -1,2 +1,4 @@
-- Flappy Christmas  
-   > É um jogo de Natal inspirado no Jogo "Flappy Bird".
+# Descrição dos Games
+
+   - Flappy Christmas
+      > Jogo Natalino inspirado no Jogo "Flappy Bird"
