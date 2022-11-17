@@ -8,6 +8,8 @@ public class SpawnPipes : MonoBehaviour
     public float height;
     public float maxTime;
 
+    private float timer = 0f;
+
     void Start()
     {
         GameObject newPipe = Instantiate(pipe);
@@ -18,6 +20,13 @@ public class SpawnPipes : MonoBehaviour
 
     void Update()
     {
-        
+        if(timer > maxTime){
+            GameObject newPipe = Instantiate(pipe);
+            newPipe.transform.position = transform.position + new Vector3(0, Random.Range(-height, height), 0);
+            Destroy(newPipe, 10f);
+            timer = 0;
+        }
+
+        timer += Time.deltaTime;
     }
 }
