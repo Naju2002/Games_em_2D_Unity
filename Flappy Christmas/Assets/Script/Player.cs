@@ -7,6 +7,8 @@ public class Player : MonoBehaviour
     public float velocidade = 1f;
     private Rigidbody2D rig;
 
+    public GameObject GameOver;
+
     void Start()
     {
         rig = GetComponent<Rigidbody2D>();
@@ -19,5 +21,11 @@ public class Player : MonoBehaviour
         {
             rig.velocity = Vector2.up * velocidade;
         }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        GameOver.SetActive(true);
+        Time.timeScale = 0;
     }
 }
