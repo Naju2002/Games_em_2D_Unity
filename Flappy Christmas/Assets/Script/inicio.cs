@@ -1,16 +1,22 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 
-public class inicio : MonoBehaviour
+public class Inicio : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public string Jogo;
     void Start()
     {
         
     }
 
-    // Update is called once per frame
+    public void StartGame()
+    {
+        SceneManager.LoadScene(Jogo);
+    }
+
     void Update()
     {
         
