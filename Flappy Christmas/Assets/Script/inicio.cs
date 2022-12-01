@@ -8,9 +8,9 @@ public class Inicio : MonoBehaviour
 {
     public string Jogo;
 
-    public bool info;
-
     public GameObject infoIcon;
+    public GameObject infoGame;
+    public GameObject sairGame;
 
     private void Start()
     {
@@ -19,6 +19,16 @@ public class Inicio : MonoBehaviour
     public void StartInfo()
     {
         infoIcon.SetActive(true);
+        sairGame.SetActive(false);
+        infoGame.SetActive(false);
+    }
+
+
+    public void CloseInfo()
+    {
+        infoIcon.SetActive(false);
+        sairGame.SetActive(true);
+        infoGame.SetActive(true);
     }
 
     public void StartGame()
@@ -26,5 +36,9 @@ public class Inicio : MonoBehaviour
         SceneManager.LoadScene(Jogo);
     }
 
+    public void CloseGame()
+    {
+        Application.Quit(); 
+    }
     
 }
