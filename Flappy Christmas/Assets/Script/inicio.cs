@@ -7,9 +7,18 @@ using UnityEngine;
 public class Inicio : MonoBehaviour
 {
     public string Jogo;
-    void Start()
+
+    public bool info;
+
+    public GameObject infoIcon;
+
+    private void Start()
     {
-        
+       // info = false;
+    }
+    public void StartInfo()
+    {
+        infoIcon.SetActive(true);
     }
 
     public void StartGame()
@@ -17,8 +26,5 @@ public class Inicio : MonoBehaviour
         SceneManager.LoadScene(Jogo);
     }
 
-    void Update()
-    {
-        
-    }
+    
 }
