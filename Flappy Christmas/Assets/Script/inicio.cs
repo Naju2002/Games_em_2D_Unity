@@ -11,6 +11,7 @@ public class Inicio : MonoBehaviour
     public GameObject infoIcon;
     public GameObject infoGame;
     public GameObject sairGame;
+    public GameObject playGame;
 
     private void Start()
     {
@@ -21,6 +22,7 @@ public class Inicio : MonoBehaviour
         infoIcon.SetActive(true);
         sairGame.SetActive(false);
         infoGame.SetActive(false);
+        playGame.SetActive(false);
     }
 
 
@@ -28,7 +30,8 @@ public class Inicio : MonoBehaviour
     {
         infoIcon.SetActive(false);
         sairGame.SetActive(true);
-        infoGame.SetActive(true);
+        infoGame.SetActive(true);        
+        playGame.SetActive(true);
     }
 
     public void StartGame()
