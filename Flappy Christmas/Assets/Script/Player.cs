@@ -21,6 +21,11 @@ public class Player : MonoBehaviour
         {
             rig.velocity = Vector2.up * velocidade;
         }
+
+        if (Input.GetKey("space"))
+        {
+            rig.velocity = Vector2.up * velocidade;
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
