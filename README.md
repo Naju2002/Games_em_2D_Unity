@@ -28,8 +28,12 @@
  # 
 ###  🖼️ Layout do Jogo:
 <div align="center" style="display: inline_block"> <br> 
-   <img align="center" alt="Naju-pic" height="300" style="border-radius:60px;" src="https://media.discordapp.net/attachments/971211319384612915/1049566788356157450/Captura_de_tela_20221202_225456.png?width=226&height=402">
+   <img align="center" alt="FC-Inicio" height="300" style="border-radius:60px;" src="https://media.discordapp.net/attachments/971211319384612915/1049566788356157450/Captura_de_tela_20221202_225456.png?width=226&height=402">
+<img align="center" alt="FC-Jogo" height="300" style="border-radius:60px;" src="https://media.discordapp.net/attachments/971211319384612915/1049566788033204304/Captura_de_tela_20221202_231537.png?width=224&height=402">
+<img align="center" alt="FC-Game-over" height="300" style="border-radius:60px;" src="https://media.discordapp.net/attachments/971211319384612915/1049566788674932816/Captura_de_tela_20221202_230223.png?width=228&height=401">
 
 </div>
 
  # 
+
+
