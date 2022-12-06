@@ -55,3 +55,7 @@
 </div>
 
 
+     - links de onde consegui as sprites/fontes pro jogo:
+       - sprite: https://craftpix.net/freebies/
+       - fonte: https://www.dafont.com/pt/04b-30.font
+
