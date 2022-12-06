@@ -18,14 +18,7 @@
 #
 
 
-### 🔧 Ferramentas e linguagem usada:
-<div>
- <img align="center" alt="Naju-Unity" height="30" width="90" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
- <img align="center" alt="Naju-VisualStudio" height="30" width="160" src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
- <img align="center" alt="Naju-Csharp" height="30" width="70" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white">
- </div>
 
- # 
 ###  🖼️ Layout do Jogo:
 <div align="center" style="display: inline_block"> <br> 
    <img align="center" alt="FC-Inicio" height="300" style="border-radius:60px;" src="https://media.discordapp.net/attachments/971211319384612915/1049566788356157450/Captura_de_tela_20221202_225456.png?width=226&height=402">
@@ -35,5 +28,30 @@
 </div>
 
  # 
+
+### 🔧 Ferramentas e linguagem usada:
+<div>
+ <img align="center" alt="Naju-Unity" height="30" width="90" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
+ <img align="center" alt="Naju-VisualStudio" height="30" width="160" src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
+ <img align="center" alt="Naju-Csharp" height="30" width="70" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white">
+ </div>
+
+ # 
+
+### 👩🏽‍💻Entre em contato:<h3>
+
+<div align="center" style="display: inline_block"> <br> 
+   <img align="center" alt="Naju-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/971211319384612915/1045133439814352926/picasion.com_5e62b3a7cff90cd45101acc87bacd360.gif">
+
+</div>
+
+
+<div align="center" style="display: inline_block"> <br>
+
+  <a href="https://www.linkedin.com/in/ana-julia-barbosa-75b6031b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.najubarbosa58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/NajuDev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+
+</div>
 
 
