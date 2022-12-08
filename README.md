@@ -10,7 +10,7 @@
  * Este jogo foi feito com a ajuda dos videos do canal Crie seus jogos.
    
    -  link pros videos: 
-      > Part 1: https://www.youtube.com/watch?v=ZRmAHgSUaI0
+      > 🔗 Part 1: https://www.youtube.com/watch?v=ZRmAHgSUaI0
 
       > Part 2: https://www.youtube.com/watch?v=pfdag3OEuQ8
 
