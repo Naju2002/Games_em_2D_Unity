@@ -30,7 +30,7 @@
  # 
 
 ### 🔧 Ferramentas e linguagem usada:
-<div>
+<div align="center" style="display: inline_block"> <br>
  <img align="center" alt="Naju-Unity" height="30" width="90" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
  <img align="center" alt="Naju-VisualStudio" height="30" width="160" src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
  <img align="center" alt="Naju-Csharp" height="30" width="70" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white">
