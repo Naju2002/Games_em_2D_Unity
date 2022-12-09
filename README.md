@@ -60,4 +60,6 @@
        - player: https://craftpix.net/freebies/free-monsters-for-match-3-game/
        - GUI: https://craftpix.net/freebies/xmas-games-gui/
        - fonte: https://www.dafont.com/pt/04b-30.font
-
+       - Som do botão: Sound Effect from <a href="https://pixabay.com/sound-effects/?utm_source=linkattribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=94319">Pixabay</a>
+       - Som do player: Sound Effect from <a href="https://pixabay.com/sound-effects/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=80898">Pixabay</a>
+       - Musica do jogo: Music by <a href="https://pixabay.com/pt/users/grand_project-19033897/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=127418">Grand_Project</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=127418">Pixabay</a>
