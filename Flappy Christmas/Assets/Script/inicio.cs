@@ -8,15 +8,18 @@ public class Inicio : MonoBehaviour
 {
     public string Jogo;
 
+    private AudioSource Music;
+
     public GameObject infoIcon;
     public GameObject infoGame;
     public GameObject sairGame;
     public GameObject playGame;
 
-    private void Start()
+    private void Awake()
     {
-       // info = false;
+        Music = GetComponent<AudioSource>();
     }
+
     public void StartInfo()
     {
         infoIcon.SetActive(true);
