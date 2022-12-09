@@ -8,16 +8,17 @@ public class Inicio : MonoBehaviour
 {
     public string Jogo;
 
-    private AudioSource Music;
+    public AudioSource som;
 
     public GameObject infoIcon;
     public GameObject infoGame;
     public GameObject sairGame;
     public GameObject playGame;
 
-    private void Awake()
+
+    public void ReproduzirSom()
     {
-        Music = GetComponent<AudioSource>();
+        som.Play();
     }
 
     public void StartInfo()
@@ -39,7 +40,13 @@ public class Inicio : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene(Jogo);
+        StartCoroutine("jogar");
+    }
+
+    private IEnumerator jogar()
+    {
+        yield return new WaitForSeconds (0.3f);
+        SceneManager.LoadScene (Jogo);
     }
 
     public void CloseGame()
