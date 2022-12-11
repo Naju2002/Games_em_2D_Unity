@@ -15,7 +15,6 @@
       > 🔗 Part 2: https://www.youtube.com/watch?v=pfdag3OEuQ8
 #
 
-
 ###  🖼️ Layout do Jogo:
 <div align="center" style="display: inline_block"> <br> 
    <img align="center" alt="FC-Inicio" height="300" style="border-radius:60px;" src="https://media.discordapp.net/attachments/971211319384612915/1049566788356157450/Captura_de_tela_20221202_225456.png?width=226&height=402">
