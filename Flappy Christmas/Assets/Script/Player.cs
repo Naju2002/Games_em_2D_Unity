@@ -9,6 +9,8 @@ public class Player : MonoBehaviour
 
     public GameObject GameOver;
 
+    public AudioSource som;
+
     void Start()
     {
         rig = GetComponent<Rigidbody2D>();
@@ -20,11 +22,13 @@ public class Player : MonoBehaviour
         if(Input.GetMouseButtonDown(0))
         {
             rig.velocity = Vector2.up * velocidade;
+            som.Play();
         }
 
         if (Input.GetKey("space"))
         {
             rig.velocity = Vector2.up * velocidade;
+            som.Play();
         }
     }
 

@@ -2841,6 +2841,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: "bot\xE3oSom"
       objectReference: {fileID: 0}
+    - target: {fileID: 5755180692702479211, guid: 1a42470b5e8253b4a99cfaee3bdc1dc1, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 2a65ec724718e4b4d9ffa05be20f85e4, type: 3}
     - target: {fileID: 5969635589058895946, guid: 1a42470b5e8253b4a99cfaee3bdc1dc1, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -2900,7 +2904,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5473466325675442457, guid: ede7a95730e286244b914364d7f004d4, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5473466325675442471, guid: ede7a95730e286244b914364d7f004d4, type: 3}
       propertyPath: m_RootOrder

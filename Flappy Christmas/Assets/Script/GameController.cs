@@ -13,10 +13,17 @@ public class GameController : MonoBehaviour
     public Text scoreTextA;
 
     public string cena;
+
+    public AudioSource som;
     private void Start()
     {
         Time.timeScale = 1;
     }
+    public void ReproduzirSom()
+    {
+        som.Play();
+    }
+
     public void RestartGame()
     {
         SceneManager.LoadScene(1);
