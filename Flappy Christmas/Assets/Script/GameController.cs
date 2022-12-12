@@ -8,6 +8,10 @@ public class GameController : MonoBehaviour
 {
     public int score;
     public Text scoreText;
+
+    public int scoreA;
+    public Text scoreTextA;
+
     public string cena;
     private void Start()
     {

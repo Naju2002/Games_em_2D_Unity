@@ -17,5 +17,8 @@ public class Points : MonoBehaviour
         controller.score++;
         controller.scoreText.text = controller.score.ToString();
 
+        controller.scoreA++;
+        controller.scoreTextA.text = controller.scoreA.ToString();
+
     }
 }
