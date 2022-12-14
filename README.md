@@ -25,7 +25,6 @@
 
  # 
 
-
 ### 🔧 Ferramentas e linguagem usada:
 <div align="center" style="display: inline_block"> <br>
  <img align="center" alt="Naju-Unity" height="30" width="90" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
