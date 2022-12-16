@@ -5,7 +5,6 @@
 
 #
 
-
 ### 🪧Infos:
  * Jogo Natalino Inspirado no jogo Flappy Bird.
  * Este jogo foi feito com a ajuda dos videos do canal Crie seus jogos.
