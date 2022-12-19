@@ -51,7 +51,6 @@
 
 #
 
-
 #### 🚧⚠️ links de onde consegui as sprites/fontes pro jogo: <h4>
  
        - Backgrounds: https://craftpix.net/freebies/free-winter-holiday-game-backgrounds/
