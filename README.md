@@ -3,6 +3,7 @@
    <img align="center" alt="Naju-Capa" height="200" style="border-radius:20px;" src="https://media.discordapp.net/attachments/971211319384612915/1049561696617898034/Flappy_Christmas.gif?width=995&height=249">
 </div>
 
+
 #
 
 ### 🪧Infos:
