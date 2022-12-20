@@ -157,3 +157,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   velocidade: 3
   GameOver: {fileID: 0}
+  som: {fileID: 0}
