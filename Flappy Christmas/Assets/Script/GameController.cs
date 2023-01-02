@@ -26,7 +26,7 @@ public class GameController : MonoBehaviour
 
     public void RestartGame()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(cena);
     }
 
     public void ProxCena()
