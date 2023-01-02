@@ -804,7 +804,7 @@ MonoBehaviour:
   infoIcon: {fileID: 768585170}
   infoGame: {fileID: 1187632832}
   sairGame: {fileID: 1848438540}
-  playGame: {fileID: 0}
+  playGame: {fileID: 314847085}
 --- !u!4 &428090942
 Transform:
   m_ObjectHideFlags: 0

@@ -26,7 +26,7 @@ public class Inicio : MonoBehaviour
         infoIcon.SetActive(true);
         sairGame.SetActive(false);
         infoGame.SetActive(false);
-        playGame.SetActive(false);
+       // playGame.SetActive(false);
     }
 
 
@@ -35,7 +35,7 @@ public class Inicio : MonoBehaviour
         infoIcon.SetActive(false);
         sairGame.SetActive(true);
         infoGame.SetActive(true);        
-        playGame.SetActive(true);
+        //playGame.SetActive(true);
     }
 
     public void StartGame()
@@ -45,7 +45,7 @@ public class Inicio : MonoBehaviour
 
     private IEnumerator jogar()
     {
-        yield return new WaitForSeconds (0.4f);
+        yield return new WaitForSeconds (0.2f);
         SceneManager.LoadScene (Jogo);
     }
 
