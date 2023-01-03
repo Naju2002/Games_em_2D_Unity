@@ -13,6 +13,7 @@ public class GameController : MonoBehaviour
     public Text scoreTextA;
 
     public string cena;
+    public string jogo;
 
     public AudioSource som;
     private void Start()
@@ -26,7 +27,7 @@ public class GameController : MonoBehaviour
 
     public void RestartGame()
     {
-        SceneManager.LoadScene(cena);
+        SceneManager.LoadScene(jogo);
     }
 
     public void ProxCena()
